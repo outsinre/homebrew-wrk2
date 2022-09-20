@@ -1,8 +1,8 @@
 class Wrk2 < Formula
   desc "Constant throughput, correct latency recording variant of wrk with ARM support"
   homepage "https://github.com/outsinre/wrk2"
-  url "https://github.com/outsinre/wrk2/archive/refs/tags/1.0.4.tar.gz"
-  sha256 "81b87ff79614da74e6de2c41f2f9dc49b71ff36433c6b33d51a537a6e6354328"
+  url "https://github.com/outsinre/wrk2/archive/refs/tags/1.0.5.tar.gz"
+  sha256 "f81ba6125bfb94ef6f2b753504df70f8580ddb53fccc728f977ce8244fb7cc5d"
   license "Apache-2.0"
   head "https://github.com/outsinre/wrk2.git", branch: "master"
 
